@@ -70,7 +70,7 @@ This project focuses on creating a comprehensive database for a cruise ship, man
 
 Feel free to explore this cruise ship database project!
 
-Schema Evolution:
+##Schema Evolution:
 
 ![Screen Shot 2023-12-20 at 4 08 11 PM](https://github.com/aluisrodriguezr/Intro-to-Databases/assets/96503213/3befd6b5-65a2-401a-811f-2e86a01e993a)
 
