@@ -1,4 +1,4 @@
-# Intro-to-Databases
+# Introduction to Databases
 
 # Cruise Ship Database Project
 
